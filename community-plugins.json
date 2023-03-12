@@ -6190,6 +6190,14 @@
         "description": "This plugin returns the current weather from OpenWeather in a configurable string format.",
         "author": "willasm",
         "repo": "willasm/obsidian-open-weather"
-    }
+    },
+    {
+        "id": "natural-latex",
+        "name": "Natural Latex",
+        "description": "A Obsidian Plugin that translates natural language to latex expressions",
+        "author": "Idontgetit1",
+        "repo": "Idontgetit1/Natural_Latex_Obsidian"
+    },
+        
 ]
 
